@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Before you run the project.
+
+Have a look at the XD file attached with it. Please install create-react-app. After you have the files from repo, run npm install to install the packages. Current version lacks responsiveness and might have some UI errors.
+
 ## Available Scripts
 
 In the project directory, you can run:
