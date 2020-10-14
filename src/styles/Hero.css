@@ -1,0 +1,15 @@
+.hero-img {
+  width: 100%;
+  height: auto;
+}
+
+.hero-content {
+  display: flex;
+  height: 70vh;
+}
+
+.hero-item {
+  flex-basis: 100%;
+  background-image: url(/public/assets/img/hero.jpg);
+  background-size: cover;
+}

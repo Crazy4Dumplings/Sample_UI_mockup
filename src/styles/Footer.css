@@ -1,0 +1,29 @@
+footer {
+  background: #f5f5f5;
+  color: black;
+}
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer-item {
+  width: 300px;
+  padding-bottom: 40px;
+}
+
+.footer-item p {
+  margin: 0;
+  padding: 0;
+}
+
+.social-icon {
+  display: flex;
+  justify-content: space-between;
+  width: 70px;
+}
+
+.social-icon-item {
+  text-align: center;
+}
